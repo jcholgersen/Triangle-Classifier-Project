@@ -1,0 +1,14 @@
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\bin\Debug\net8.0\TriangleClassifier.exe
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\bin\Debug\net8.0\TriangleClassifier.deps.json
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\bin\Debug\net8.0\TriangleClassifier.runtimeconfig.json
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\bin\Debug\net8.0\TriangleClassifier.dll
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\bin\Debug\net8.0\TriangleClassifier.pdb
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\obj\Debug\net8.0\TriangleClassifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\obj\Debug\net8.0\TriangleClassifier.AssemblyInfoInputs.cache
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\obj\Debug\net8.0\TriangleClassifier.AssemblyInfo.cs
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\obj\Debug\net8.0\TriangleClassifier.csproj.CoreCompileInputs.cache
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\obj\Debug\net8.0\TriangleClassifier.dll
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\obj\Debug\net8.0\refint\TriangleClassifier.dll
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\obj\Debug\net8.0\TriangleClassifier.pdb
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\obj\Debug\net8.0\TriangleClassifier.genruntimeconfig.cache
+C:\Users\jholg\Documents\ProjectFolder\TriangleClassifier\src\obj\Debug\net8.0\ref\TriangleClassifier.dll
