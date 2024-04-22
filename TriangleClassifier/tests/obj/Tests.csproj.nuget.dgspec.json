@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jholg\\Documents\\GitHub\\Triangle-Classifier-Project\\TriangleClassifier\\tests\\Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jholg\\Documents\\GitHub\\Triangle-Classifier-Project\\TriangleClassifier\\src\\Triangle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jholg\\Documents\\GitHub\\Triangle-Classifier-Project\\TriangleClassifier\\src\\Triangle.csproj",
+        "projectName": "Triangle",
+        "projectPath": "C:\\Users\\jholg\\Documents\\GitHub\\Triangle-Classifier-Project\\TriangleClassifier\\src\\Triangle.csproj",
+        "packagesPath": "C:\\Users\\jholg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jholg\\Documents\\GitHub\\Triangle-Classifier-Project\\TriangleClassifier\\src\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jholg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jholg\\Documents\\GitHub\\Triangle-Classifier-Project\\TriangleClassifier\\tests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jholg\\Documents\\GitHub\\Triangle-Classifier-Project\\TriangleClassifier\\tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "C:\\Users\\jholg\\Documents\\GitHub\\Triangle-Classifier-Project\\TriangleClassifier\\tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\jholg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jholg\\Documents\\GitHub\\Triangle-Classifier-Project\\TriangleClassifier\\tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jholg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jholg\\Documents\\GitHub\\Triangle-Classifier-Project\\TriangleClassifier\\src\\Triangle.csproj": {
+                "projectPath": "C:\\Users\\jholg\\Documents\\GitHub\\Triangle-Classifier-Project\\TriangleClassifier\\src\\Triangle.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
